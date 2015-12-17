@@ -1,0 +1,85 @@
+{
+	"dialog_yes":"Да",
+	"dialog_no":"Нет",
+
+	"dialog_rewind_confirmation":"Как далеко (по сюжету) вы хотели бы вернуться?",
+	"dialog_rewind_option_2":"Первая встреча",
+	"dialog_rewind_option_3":"Признание",
+	"dialog_rewind_option_4":"Дресс-код: скафандр",
+	"dialog_rewind_option_5":"Безбашенные морпехи",
+	"dialog_rewind_option_1": "Начало сюжета",
+	
+
+	"dialog_fast_confirmation":"Ускоренный режим не рекомендован для игры, но его можно использовать для пропуска перерывов, которые вы уже пережидали раньше.\n\nУскоренный режим активизируется, когда вы сделаете или измените сюжетный выбор.\n\nВы уверены?",
+
+	"dialog_notification_settings":"\"Lifeline. Тихая ночь.\" – это интерактивная история длиной в несколько дней.\n\nУведомления важны для атмосферы игры, но могут быть сжаты на Apple Watch.\n\nВы можете изменить этот выбор в любое время в настройках меню.",
+	"dialog_notification_option_1":"У меня нет Apple Watch",
+	"dialog_notification_option_2":"У меня есть Apple Watch",
+
+	"dialog_game_over":"Тейлор завершил свое путешествие.\n\nВселенная огромна, а время нелинейно. Помните: то, что выглядит как конец авантюры, на самом деле может быть началом другого приключения или неограниченного их количества. Под вашим чутким руководством Тейлор может идти куда угодно.\n\n\nТеперь вы можете узнать оставшуюся часть сюжета: измените предыдущий выбор, нажав на него, или перемотайте на определенный день.\n\nВ главном меню вы можете выбрать ускоренный режим.",
+	"dialog_game_over_option_1":"Оценить приложение",
+	"dialog_game_over_option_2":"Отмотать сюжет",
+	"dialog_game_over_watch":"Тейлор завершил свое путешествие.\n\nВселенная огромна, а время нелинейно. Помните: то, что выглядит как конец авантюры, может на самом деле быть началом другого приключения или неограниченного их количества. Под вашим чутким руководством Тейлор может идти куда угодно.\n\nТеперь вы можете узнать оставшуюся часть сюжета: измените предыдущий выбор, нажав на него, или перемотайте на определенный день.\n\nВ главном меню вы можете выбрать ускоренный режим. (Нажмите (force touch) на главном меню).",
+
+	"dialog_change_language_text":"Изменить язык?",
+	"dialog_change_language_en_button":"English",
+	"dialog_change_language_de_button":"Deutsch",
+    "dialog_change_language_fr_button":"Français",
+    "dialog_change_language_ru_button":"Русский",
+    "dialog_change_language_jp_button":"日本語",
+    "dialog_change_language_cn_button":"中文",
+    
+    "dialog_credits":"\"Lifeline. Тихая ночь.\"\n\nDave Justus\nMichael Byrd\nMarisa Bell\nJeff Schmitt\nDan Selleck\nWilson Bull\nJackie Steege\nMatt Burchstead\nDrew Sayers\n\nОтдел контроля качества:\nLeigh Talbott\nJustin Crabtree\nJason Ausmus\nByron Donaldson\n\nПри содействии:\nColin Liotta\nMars Jokela\nMerric Shank\nMike Harmon\nMorgan Harter\n\nОтдел локализации и контроля качества:\n\nAleksandra Marenich\nJulia Ochs\nSofya Lischenko\nDarya Melekhova\nVesna Coleman\nSara Gläser\nAnnette Neeb\nNaoko Isenhart\nMiho Lyon\nEriko Gardner\nNick Tchemitcheff\nIsabelle Zanchetta\nBenoit Guette\nGwen Suavage\nWen Hu\nBo Qian\n\nПри содействии:\n\nMatt Decker\nYumi Okubo-Shuman\nSteen Groennebaek\nArne Twigt\nLauren Warnock\n",
+
+	"dialog_play_on_iphone":"Пожалуйста, запустите \"Lifeline. Тихая ночь.\" на вашем iPhone, чтобы начать игру.",
+    "dialog_resume_on_iphone": "Пожалуйста, откройте \"Lifeline. Тихая ночь.\" на своем iPhone, чтобы продолжить...",
+
+	"dialog_rewind_time":"Вы уверены, что хотите перемотать сюжет на этот момент?",
+    "dialog_name_confirmation":"Вас так зовут?",
+
+	"dialog_close":"Закрыть",
+
+	"dialog_soundtrack":"Загрузить саундтрек",
+	"dialog_soundtrack_itunes":"Загрузить саундтрек с iTunes",
+	"dialog_soundtrack_googleplay":"Загрузить саундтрек с Google Play",
+	"dialog_soundtrack_amazon":"Загрузить саундтрек с Amazon",
+
+    "hud_settings":"Настройки",
+	"hud_notification_settings":"Настройки часов",
+	"hud_turn_music_off":"Музыка\nВЫКЛ.",
+	"hud_turn_music_on":"Музыка\nВКЛ.",
+	"hud_turn_sound_off":"Звук\nВЫКЛ.",
+	"hud_turn_sound_on":"Звук\nВКЛ.",
+	"hud_rate_the_game":"Оценить игру",
+	"hud_rewind_story":"Отмотать сюжет?",
+	"hud_turn_fast_mode_on":"Ускоренный режим ВКЛ.",
+	"hud_turn_fast_mode_off":"Ускоренный режим ВЫКЛ.",
+	"hud_change_language":"Изменить язык",
+    "hud_credits":"Создатели",
+    "hud_soundtrack":"Локализация",
+    "schematic_header": "Схема “Белой звезды”",
+
+	"story_arika_is_busy":"[Тейлор занят.]",
+	"story_connection_lost":"[Соединение прервалось.]",
+	"story_incoming_communication":"[Входящее сообщение...]",
+	"story_respond":"[Ответ…]",
+	"story_arika_is_waiting_for_you":"[Тейлор ждет вас.]",
+	"story_restart_the_story":"[Начать историю заново?]",
+	"story_incoming_message":"[Новое сообщение...]",
+	"story_display_system_message":"Конец пути",
+	"story_arika_is_busy_long":"Тейлор занят. Пожалуйста, подождите.",
+	"story_arika_needs_you":"Вы нужны Тейлору!",
+    "story_my_name_is":"Меня зовут ",
+    "story_alert_action":"Открыть",
+
+	"text_input_placeholder":"<имя>",
+	"watch_input_button":"<коснитесь, чтобы произнести имя>",
+
+	"<shep>": "Шеп.: ",
+	"<don>": "Дон: ",
+	"<bos>": "Боз: ",
+	"<aries>": "Ариес: ",
+	"<doc>": "Док: ",
+	"<mari>": "Мари: ",
+	"<green>": "Зеленые: "
+}

@@ -1,0 +1,82 @@
+{
+	"dialog_yes":"Ja",
+	"dialog_no":"Nein",
+
+	"dialog_rewind_confirmation":"Zu welchem Punkt in der Geschichte möchtest Du zurückgehen?",
+	"dialog_rewind_option_2":"Erste Begegnung",
+	"dialog_rewind_option_3":"Geständnis",
+	"dialog_rewind_option_4":"Raumanzug",
+	"dialog_rewind_option_5":"Marines",
+	"dialog_rewind_option_1": "Bis zum Beginn der Geschichte",
+
+	"dialog_fast_confirmation":"Der Schnellmodus wird nicht für den gesamten Spielablauf empfohlen, aber er ist nützlich, wenn Du Stellen überspringen willst, an denen Du schon warst. \n\nDer Schnellmodus wird aktiviert, wenn Du das nächste Mal eine Entscheidung triffst oder eine vorherige änderst.\n\nBist Du Dir sicher?",
+
+	"dialog_notification_settings":"»Lifeline: Stille Nacht« ist eine interaktive Story, die über den Lauf mehrerer Tage erzählt wird.\n\nBenachrichtigungen sind für das Spielerlebnis erforderlich, aber für die Apple Watch können sie zusammengefasst werden. \n\nDies kannst Du jederzeit in den Einstellungen ändern.",
+	"dialog_notification_option_1":"Ich habe keine Apple Watch",
+	"dialog_notification_option_2":"Ich habe eine Apple Watch",
+
+	"dialog_game_over":"Taylor hat das Ende seiner Reise erreicht.\n\nDas Universum ist riesig und die Zeit verläuft nicht linear. Vergiss nicht: Was wie das Ende einer Reise erscheinen mag, kann tatsächlich der Anfang unzähliger anderer sein. Gemeinsam sind Dir und Taylor keine Grenzen gesetzt.\n\n\nDu kannst nun den Rest der Geschichte erleben: Tippe auf eine beliebige vorherige Antwort, um diese zu ändern oder um die Geschichte zu einem bestimmten Zeitpunkt zurückzudrehen.\n\nUnter »Einstellungen« kannst Du den Schnellmodus aktivieren.",
+	"dialog_game_over_option_1":"App bewerten",
+	"dialog_game_over_option_2":"Zurück",
+	"dialog_game_over_watch":"Taylor hat das Ende seiner Reise erreicht.\n\nDas Universum ist riesig und die Zeit verläuft nicht linear. Vergiss nicht: Was wie das Ende einer Reise erscheinen mag, kann tatsächlich der Anfang unzähliger anderer sein. Gemeinsam sind Dir und Taylor keine Grenzen gesetzt.\n\nDu kannst nun den Rest der Geschichte erleben: Tippe auf eine beliebige vorherige Antwort, um diese zu ändern oder um die Geschichte zu einem bestimmten Zeitpunkt zurückzudrehen.\n\nIm »Hauptmenü« kannst Du den Schnellmodus aktivieren. (Force Touch auf dem Hauptbildschirm).",
+
+	"dialog_change_language_text":"Möchtest Du die Sprache ändern?",
+	"dialog_change_language_en_button":"English",
+	"dialog_change_language_de_button":"Deutsch",
+    "dialog_change_language_fr_button":"Français",
+    "dialog_change_language_ru_button":"Русский",
+    "dialog_change_language_jp_button":"日本語",
+    "dialog_change_language_cn_button":"中文",
+    
+    "dialog_credits":"»Lifeline: Stille Nacht« wurde kreiert von:\nDave Justus\nMichael Byrd\nMarisa Bell\nJeff Schmitt\nDan Selleck\nWilson Bull\nJackie Steege\nMatt Burchstead\nund Drew Sayers\n\nQS Team:\nLeigh Talbott\nJustin Crabtree\nJason Ausmus\nByron Donaldson\n\nBeitragende:\nColin Liotta\nMars Jokela\nMerric Shank\nMike Harmon\nund Morgan Harter.\n\nLokalisierung & QS:\nAleksandra Marenich\nJulia Ochs\nSofya Lischenko\nDarya Melekhova\nVesna Coleman\nSara Gläser\nAnnette Neeb\nNaoko Isenhart\nMiho Lyon\nEriko Gardner\nNick Tchemitcheff\nIsabelle Zanchetta\nBenoit Guette\nGwen Suavage\nWen Hu\nBo Qian\n\nUnter Mitarbeit von:\nMatt Decker\nYumi Okubo-Shuman\nSteen Groennebaek\nArne Twigt\nund Lauren Warnock.",
+	"dialog_play_on_iphone":"Starte »Lifeline: Stille Nacht« auf Deinem iPhone, um das Abenteuer zu starten.",
+    "dialog_resume_on_iphone": "Starte »Lifeline: Stille Nacht« auf Deinem iPhone, um das Abenteuer fortzusetzen.",
+
+	"dialog_rewind_time":"Möchtest Du wirklich zu diesem Punkt in der Geschichte zurückgehen?",
+    "dialog_name_confirmation":"Ist das Dein Name?",
+
+	"dialog_close":"Schließen",
+
+	"dialog_soundtrack":"Musik herunterladen",
+	"dialog_soundtrack_itunes":"Musik in iTunes herunterladen",
+	"dialog_soundtrack_googleplay":"Musik in Google Play herunterladen",
+	"dialog_soundtrack_amazon":"Musik in Amazon herunterladen",
+
+    "hud_settings":"EINSTELLUNGEN",
+	"hud_notification_settings":"Apple Watch Einstellungen",
+	"hud_turn_music_off":"Musik\nAUS",
+	"hud_turn_music_on":"Musik\nAN",
+	"hud_turn_sound_off":"Sound\nAUS",
+	"hud_turn_sound_on":"Sound\nAN",
+	"hud_rate_the_game":"Spiel bewerten",
+	"hud_rewind_story":"Zurück?",
+	"hud_turn_fast_mode_on":"Schnellmodus AN",
+	"hud_turn_fast_mode_off":"Schnellmodus AUS",
+	"hud_change_language":"Sprache ändern",
+    "hud_credits":"Team",
+	"schematic_header": "Lageplan der White Star",
+
+	"story_arika_is_busy":"[Taylor ist beschäftigt]",
+	"story_connection_lost":"Verbindung unterbrochen",
+	"story_incoming_communication":"[Eingehende Kommunikation]",
+	"story_respond":"[Antworten …]",
+	"story_arika_is_waiting_for_you":"[Taylor wartet auf eine Antwort von Dir.]",
+	"story_restart_the_story":"[Geschichte von vorne beginnen?]",
+	"story_incoming_message":"[Neue Nachricht]",
+	"story_display_system_message":"Ende dieses Geschichtsverlaufs",
+	"story_arika_is_busy_long":"Taylor ist beschäftigt. Bitte warten ...",
+	"story_arika_needs_you":"Taylor braucht Deine Hilfe!",
+    "story_my_name_is":"Mein Name lautet ",
+    "story_alert_action":"Öffnen",
+
+	"text_input_placeholder":"<Name>",
+	"watch_input_button":"<Tippe, um einen Namen zu nennen>",
+
+	"<shep>": "Shepherd: ",
+	"<don>": "Don: ",
+	"<bos>": "Bos: ",
+	"<aries>": "Aries: ",
+	"<doc>": "Doc: ",
+	"<mari>": "Mari: ",
+	"<green>": "Alien: "
+}

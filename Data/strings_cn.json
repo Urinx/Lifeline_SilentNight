@@ -1,0 +1,83 @@
+{
+	"dialog_yes": "是",
+	"dialog_no": "否",
+
+	"dialog_rewind_confirmation": "希望返回故事的哪部分重新开始？",
+	"dialog_rewind_option_2": "首遇船员",
+	"dialog_rewind_option_3": "告白",
+	"dialog_rewind_option_4": "穿上宇航服",
+	"dialog_rewind_option_5": "遇见士兵",
+	"dialog_rewind_option_1": "故事开头",
+
+	"dialog_fast_confirmation": "《生命线》不推荐使用“快速模式”，但是此模式有助于您跳过之前已体验过的等待部分。\n\n“快速模式”将于您下次在故事中选择或修改选项时生效。\n\n您希望选用吗？",
+	
+	"dialog_notification_settings": "《生命线：静夜》是一款用几天时间讲述的互动故事。\n\n通知能够提升您的游戏体验，但是在Apple Watch上，您可以集中接收通知。\n\n您可以在设置菜单中随时更改此选项。",
+	"dialog_notification_option_1": "我没有Apple Watch",
+	"dialog_notification_option_2": "我有Apple Watch",
+	
+	"dialog_game_over": "泰勒已经走到了这段冒险经历的尽头。\n\n宇宙无边无垠，时间亦非单独一条直线。要记住，看似一场旅途的结束，也可以是无数旅途的开端。有你的指引，没有泰勒无法企及之处。\n\n\n您现在可以点击任何过去的选项更改回复，或返回某一个节点，去探索其余的故事进程。\n\n您也可以在设置菜单中激活“快速模式”。",
+	"dialog_game_over_option_1": "给游戏评分",
+	"dialog_game_over_option_2": "重返过去",
+	"dialog_game_over_watch": "泰勒已经走到了这段冒险经历的尽头。\n\n宇宙无边无垠，时间亦非单独一条直线。要记住，看似一场旅途的结束，也可以是无数旅途的开端。有你的指引，没有泰勒无法企及之处。\n\n您现在可以点击任何过去的选项更改回复，或返回某一个节点，去探索其余的故事进程。\n\n您也可以在主菜单中激活“快速模式”（按压主屏幕）。",
+	
+	"dialog_change_language_text": "更改语言",
+	"dialog_change_language_en_button": "English",
+	"dialog_change_language_de_button": "Deutsch",
+    "dialog_change_language_fr_button": "Français",
+    "dialog_change_language_ru_button": "Русский",
+    "dialog_change_language_jp_button": "日本語",
+    "dialog_change_language_cn_button": "中文",
+    
+    "dialog_credits": "《生命线：静夜》开发人员：\nDave Justus\nMichael Byrd\nMarisa Bell\nJeff Schmitt\nDan Selleck\nWilson Bull\nJackie Steege\nMatt Burchstead\nDrew Sayers\n\n质保测试人员：\nLeigh Talbott\nJustin Crabtree\nJason Ausmus\nByron Donaldson\n\n支持人员：\nColin Liotta\nMars Jokela\nMerric Shank\nMike Harmon\nMorgan Harter\n\n本地化与测试：\nAleksandra Marenich\nJulia Ochs\nSofya Lischenko\nDarya Melekhova\nVesna Coleman\nSara Gläser\nAnnette Neeb\nNaoko Isenhart\nMiho Lyon\nEriko Gardner\nNick Tchemitcheff\nIsabelle Zanchetta\nBenoit Guette\nGwen Suavage\nWen Hu\nBo Qian\n\n支持人员：\nMatt Decker\nYumi Okubo-Shuman\nSteen Groennebaek\nArne Twigt\nLauren Warnock",
+	
+	"dialog_play_on_iphone": "请在您的iPhone上启动《生命线：静夜》。",
+    "dialog_resume_on_iphone":  "请在您的iPhone上打开《生命线：静夜》，以便继续游戏……",
+	
+	"dialog_rewind_time": "确定要将故事返回此节点重新开始吗？",
+    "dialog_name_confirmation": "这是你的名字吗？",
+	
+	"dialog_close": "关闭",
+	
+	"dialog_soundtrack": "下载音轨",
+	"dialog_soundtrack_itunes": "从iTunes下载音轨",
+	"dialog_soundtrack_googleplay": "从Google Play下载音轨",
+	"dialog_soundtrack_amazon": "从Amazon下载音轨",
+    
+    "hud_settings": "设置",
+	"hud_notification_settings": "Watch设置",
+	"hud_turn_music_off": "关闭音乐\n关",
+	"hud_turn_music_on": "开启音乐\n开",
+	"hud_turn_sound_off": "关闭音效\n关",
+	"hud_turn_sound_on": "开启音效\n开",
+	"hud_rate_the_game": "给游戏打分",
+	"hud_rewind_story": "重返故事的某个部分吗？",
+	"hud_turn_fast_mode_on": "开启快速模式",
+	"hud_turn_fast_mode_off": "关闭快速模式",
+	"hud_change_language": "更改语言",
+    "hud_credits": "制作人员",
+	"schematic_header":  "白星号地图",
+	
+	"story_arika_is_busy": "[泰勒繁忙]",
+	"story_connection_lost": "连接丢失",
+	"story_incoming_communication": "[通讯信号正在接入]",
+	"story_respond": "[回复……]",
+	"story_arika_is_waiting_for_you": "[泰勒在等你。]",
+	"story_restart_the_story": "[要重新开始故事吗？]",
+	"story_incoming_message": "[新消息]",
+	"story_display_system_message": "剧终",
+	"story_arika_is_busy_long": "泰勒正繁忙，请稍候。",
+	"story_arika_needs_you": "泰勒需要你！",
+    "story_my_name_is": "我叫 ",
+    "story_alert_action": "开启",
+	
+	"text_input_placeholder": "<名字>",
+	"watch_input_button": "<点击说名字>",
+
+	"<shep>": "夏帕德：",
+	"<don>": "唐纳德：",
+	"<bos>": "博斯：",
+	"<aries>": "阿里思：",
+	"<doc>": "医生：",
+	"<mari>": "玛瑞：",
+	"<green>": "外星绿怪："
+}
