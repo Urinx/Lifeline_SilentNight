@@ -3,11 +3,11 @@
 
 `Lifeline: SilentNight` is now available on Telegram and terminal. You can experience a tense psychological thriller and save Taylor from the green aliens just as same as it's on iOS or Android.
 
-> Language support: "English", "Deutsch", "Français", "Русский", "日本語", "中文"
+> Language support: English, Deutsch, Français, Русский, 日本語, 中文
 
 ![lifeline](Images/lifeline.png)
 
-### Telegrame
+### Telegram
 If you want to play lifeline game on the telegram, just add the bot count `@LifelineSilentNightBot`. That's all.
 
 ![telegram](Images/telegram.png)
